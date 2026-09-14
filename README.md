@@ -15,7 +15,7 @@ This portfolio analyzes multi-tier empirical data across 5 core nodes of the Wes
 
 ## Supply Chain Architecture
 Farmer (n=400) ──> Miller (n=105) ──> Middlemen (n=104) ──> Wholesaler (n=104) ──> Retailer (n=102)
-└────────────────────────── Unified Analytical Layer: DEA, PuLP LP & SHAP Attribution ──────────────────────────┘
+└──────────── Unified Analytical Layer: DEA, PuLP LP & SHAP Attribution ──────────────────────────┘
 
 ---
 
